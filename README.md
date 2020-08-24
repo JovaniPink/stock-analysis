@@ -12,7 +12,7 @@
 - [Contributing](#Contributing)
 - [License](#License)
 
-## Overview
+## Overview of Project
 
 We wanted to help a friend do some analysis on some stocks that his client were interested in. We were given the stock information of two years (2017 & 2018) of 'Green Stocks.'
 
@@ -25,9 +25,13 @@ We first looked through the data and focused on one stock ticker to work out the
 
 We had to loop through through the 3000 plus rows of stock data to out put the ticker volume and find the total volume for the current ticker. However, it just wasn't one ticker stock that we were looking into - we had many. So investing time in developing a VBA macro script would bring us value.
 
-## Results
+## Summary
 
 Committed in our shared repo is the refactored VBA script (VBA_Challenge.vbs) we used to create:
+
+NEED TO FINISH!
+
+### Resources
 
 #### 2017
 
@@ -36,10 +40,6 @@ Committed in our shared repo is the refactored VBA script (VBA_Challenge.vbs) we
 #### 2018
 
 ![2018](resources/2018.png)
-
-## Summary
-
-NEED TO FINISH!
 
 ## Extra
 
