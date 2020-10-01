@@ -4,13 +4,13 @@
 
 ## Table of Contents
 
-- [Overview](#Overview)
-- [Results](#Results)
-- [Summary](#Summary)
-- [Extra](#Extra)
-- [Todo Checklist](#TodoChecklist)
-- [Contributing](#Contributing)
-- [License](#License)
+- [Overview](#overview)
+- [Results](#results)
+- [Summary](#summary)
+- [Extra](#extra)
+- [Todo Checklist](#todo-checklist)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Overview of Project
 
@@ -29,7 +29,18 @@ We had to loop through through the 3000 plus rows of stock data to out put the t
 
 Committed in our shared repo is the refactored VBA script (VBA_Challenge.vbs) we used to create:
 
-NEED TO FINISH!
+An analysis of specific yearly stock data.
+
+It calculates the stock price change for the year, the price percent change for the year, and the total volume traded for that year.
+
+It will then sort through the calculated data and determine the best performer, the worst performer, and the stock with the greatest volume traded for the year.
+
+Our VBA script will take in a year and will cycle through each sheet automatically.
+
+### Technologies
+
+- Excel [Excel developer documentation](https://developer.microsoft.com/en-us/excel/docs)
+- VBA [Getting started with VBA in Office](https://docs.microsoft.com/en-us/office/vba/library-reference/concepts/getting-started-with-vba-in-office)
 
 ### Resources
 
@@ -43,7 +54,13 @@ NEED TO FINISH!
 
 ## Extra
 
-Beyond VBA ... I wanted to translate the VBA macros to the new JavaScript API: - [Excel add-ins documentation](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/) - [Excel JavaScript API overview](https://docs.microsoft.com/en-us/office/dev/add-ins/reference/overview/excel-add-ins-reference-overview) - [Work with worksheets using the Excel JavaScript API](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-worksheets) - [Work with tables using the Excel JavaScript API](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-tables) - [Work with ranges using the Excel JavaScript API](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-ranges)
+Beyond VBA ... I wanted to translate the VBA macros to the new JavaScript API:
+
+- [Excel add-ins documentation](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/)
+- [Excel JavaScript API overview](https://docs.microsoft.com/en-us/office/dev/add-ins/reference/overview/excel-add-ins-reference-overview)
+- [Work with worksheets using the Excel JavaScript API](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-worksheets)
+- [Work with tables using the Excel JavaScript API](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-tables)
+- [Work with ranges using the Excel JavaScript API](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-ranges)
 
 ## Todo Checklist
 
