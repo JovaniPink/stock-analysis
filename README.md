@@ -27,7 +27,7 @@ We had to loop through through the 3000 plus rows of stock data to out put the t
 
 ## Summary
 
-Committed in our shared repo is the refactored VBA script (VBA_Challenge.vbs) we used to create:
+Committed in our shared repo is the refactored VBA script (green_script_VBA.vbs) we used to create:
 
 An analysis of specific yearly stock data.
 
@@ -56,6 +56,8 @@ Our VBA script will take in a year and will cycle through each sheet automatical
 
 Beyond VBA ... I wanted to translate the VBA macros to the new JavaScript API:
 
+https://github.com/JovaniPink/stock-analysis-typescript
+
 - [Excel add-ins documentation](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/)
 - [Excel JavaScript API overview](https://docs.microsoft.com/en-us/office/dev/add-ins/reference/overview/excel-add-ins-reference-overview)
 - [Work with worksheets using the Excel JavaScript API](https://docs.microsoft.com/en-us/office/dev/add-ins/excel/excel-add-ins-worksheets)
@@ -76,6 +78,13 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+1. Fork this repository;
+2. Create your branch: `git checkout -b my-new-feature`;
+3. Commit your changes: `git commit -m 'Add some feature'`;
+4. Push to the branch: `git push origin my-new-feature`.
+
+**After your pull request is merged**, you can safely delete your branch.
+
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more information.
